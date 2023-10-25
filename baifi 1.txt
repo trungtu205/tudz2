@@ -1,0 +1,25 @@
+			toán tử gán
+      b = bt
+-trong đó b là 1 biến ,bt là một giá trị cụ thể hoặc một biểu thức toán học .
+* một số quy ước :
+- i = i + 2  i+=2
+- x=x*(y-2) ; <=> x*= y-2
+- a=b=c=6;
+-a=(b=2)+(c=3)
+
+
+
+			Hàm đưa kết quả ra màn hình 
+   frintf("");
+- chuyển dòng  \n
+- các kí tự sẽ được sao chép y nguyên ra màn hình 
+- các kí tự định dạng : mô tả kiểu cách đứa ra màn hình của giá trị biểu thức 
+    vd:
+  printf("\n Nghiệm thứ nhất là x1 = %3f", (a+b)/2);
+			Hàm nhập liệu từ bàn phím 
+   scanf("t1t2...tk,&b1,&b2,...&bk  ")
+  vd: 
+   scanf("%d%f%f",%a,%b,%c);
+-sự hoạt động của hàm scanf và cách nhập dữ liệu từ bàn phím .
+
+			
